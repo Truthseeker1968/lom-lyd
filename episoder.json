@@ -1,104 +1,5 @@
 [
  {
-  "kap": "ok01",
-  "okt": 1,
-  "tittel": "Etablering – selskapsform og ansvar",
-  "bok": "Økonomistyring",
-  "fil": "ok01_okt1.mp3",
-  "sek": 996,
-  "mb": 8.0
- },
- {
-  "kap": "ok01",
-  "okt": 2,
-  "tittel": "Etablering – registrene og faglig ansvarlig",
-  "bok": "Økonomistyring",
-  "fil": "ok01_okt2.mp3",
-  "sek": 991,
-  "mb": 7.9
- },
- {
-  "kap": "ok01",
-  "okt": 3,
-  "tittel": "Etablering – skatt og merverdiavgift",
-  "bok": "Økonomistyring",
-  "fil": "ok01_okt3.mp3",
-  "sek": 1401,
-  "mb": 11.2
- },
- {
-  "kap": "ok02",
-  "okt": 1,
-  "tittel": "Utgift, utbetaling og kostnad",
-  "bok": "Økonomistyring",
-  "fil": "ok02_okt1.mp3",
-  "sek": 1027,
-  "mb": 8.2
- },
- {
-  "kap": "ok02",
-  "okt": 2,
-  "tittel": "Faste, variable, direkte og indirekte kostnader",
-  "bok": "Økonomistyring",
-  "fil": "ok02_okt2.mp3",
-  "sek": 974,
-  "mb": 7.8
- },
- {
-  "kap": "ok02",
-  "okt": 3,
-  "tittel": "Lønnskostnad, pris og avskrivning",
-  "bok": "Økonomistyring",
-  "fil": "ok02_okt3.mp3",
-  "sek": 1892,
-  "mb": 15.1
- },
- {
-  "kap": "ok03",
-  "okt": 1,
-  "tittel": "Resultatregnskapet",
-  "bok": "Økonomistyring",
-  "fil": "ok03_okt1.mp3",
-  "sek": 1027,
-  "mb": 8.2
- },
- {
-  "kap": "ok03",
-  "okt": 2,
-  "tittel": "Eiendel eller kostnad",
-  "bok": "Økonomistyring",
-  "fil": "ok03_okt2.mp3",
-  "sek": 1611,
-  "mb": 12.9
- },
- {
-  "kap": "ok03",
-  "okt": 3,
-  "tittel": "Balansen",
-  "bok": "Økonomistyring",
-  "fil": "ok03_okt3.mp3",
-  "sek": 1635,
-  "mb": 13.1
- },
- {
-  "kap": "ok04",
-  "okt": 1,
-  "tittel": "Regnskapsanalyse – lønnsomhet",
-  "bok": "Økonomistyring",
-  "fil": "ok04_okt1.mp3",
-  "sek": 1376,
-  "mb": 11.0
- },
- {
-  "kap": "ok10",
-  "okt": 3,
-  "tittel": "Investering – internrenten og beslutningen",
-  "bok": "Økonomistyring",
-  "fil": "ok10_okt3.mp3",
-  "sek": 1645,
-  "mb": 13.2
- },
- {
   "kap": "ma01",
   "okt": 1,
   "tittel": "Markedsføring – hva det er, og hva et marked er",
@@ -334,6 +235,15 @@
  },
  {
   "kap": "ma09",
+  "okt": 2,
+  "tittel": "Påvirkning – rett kunde og budsjettet",
+  "bok": "Markedsføring",
+  "fil": "ma09_okt2.mp3",
+  "sek": 1626,
+  "mb": 13.0
+ },
+ {
+  "kap": "ma09",
   "okt": 3,
   "tittel": "Påvirkning – loven, omdømmet og personalet",
   "bok": "Markedsføring",
@@ -367,6 +277,105 @@
   "fil": "ma10_okt3.mp3",
   "sek": 776,
   "mb": 6.2
+ },
+ {
+  "kap": "ok01",
+  "okt": 1,
+  "tittel": "Etablering – selskapsform og ansvar",
+  "bok": "Økonomistyring",
+  "fil": "ok01_okt1.mp3",
+  "sek": 996,
+  "mb": 8.0
+ },
+ {
+  "kap": "ok01",
+  "okt": 2,
+  "tittel": "Etablering – registrene og faglig ansvarlig",
+  "bok": "Økonomistyring",
+  "fil": "ok01_okt2.mp3",
+  "sek": 991,
+  "mb": 7.9
+ },
+ {
+  "kap": "ok01",
+  "okt": 3,
+  "tittel": "Etablering – skatt og merverdiavgift",
+  "bok": "Økonomistyring",
+  "fil": "ok01_okt3.mp3",
+  "sek": 1401,
+  "mb": 11.2
+ },
+ {
+  "kap": "ok02",
+  "okt": 1,
+  "tittel": "Utgift, utbetaling og kostnad",
+  "bok": "Økonomistyring",
+  "fil": "ok02_okt1.mp3",
+  "sek": 1027,
+  "mb": 8.2
+ },
+ {
+  "kap": "ok02",
+  "okt": 2,
+  "tittel": "Faste, variable, direkte og indirekte kostnader",
+  "bok": "Økonomistyring",
+  "fil": "ok02_okt2.mp3",
+  "sek": 974,
+  "mb": 7.8
+ },
+ {
+  "kap": "ok02",
+  "okt": 3,
+  "tittel": "Lønnskostnad, pris og avskrivning",
+  "bok": "Økonomistyring",
+  "fil": "ok02_okt3.mp3",
+  "sek": 1892,
+  "mb": 15.1
+ },
+ {
+  "kap": "ok03",
+  "okt": 1,
+  "tittel": "Resultatregnskapet",
+  "bok": "Økonomistyring",
+  "fil": "ok03_okt1.mp3",
+  "sek": 1027,
+  "mb": 8.2
+ },
+ {
+  "kap": "ok03",
+  "okt": 2,
+  "tittel": "Eiendel eller kostnad",
+  "bok": "Økonomistyring",
+  "fil": "ok03_okt2.mp3",
+  "sek": 1611,
+  "mb": 12.9
+ },
+ {
+  "kap": "ok03",
+  "okt": 3,
+  "tittel": "Balansen",
+  "bok": "Økonomistyring",
+  "fil": "ok03_okt3.mp3",
+  "sek": 1635,
+  "mb": 13.1
+ },
+ {
+  "kap": "ok04",
+  "okt": 1,
+  "tittel": "Regnskapsanalyse – lønnsomhet",
+  "bok": "Økonomistyring",
+  "fil": "ok04_okt1.mp3",
+  "sek": 1376,
+  "mb": 11.0
+ },
+ {
+  "kap": "ok10",
+  "okt": 3,
+  "tittel": "Investering – internrenten og beslutningen",
+  "bok": "Økonomistyring",
+  "fil": "ok10_okt3.mp3",
+  "sek": 1645,
+  "mb": 13.2
  },
  {
   "kap": "ol11",
