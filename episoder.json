@@ -369,6 +369,114 @@
   "mb": 11.0
  },
  {
+  "kap": "ok05",
+  "okt": 1,
+  "tittel": "Kalkulasjon – selvkostkalkylen og timeprisen",
+  "bok": "Økonomistyring",
+  "fil": "ok05_okt1.mp3",
+  "sek": 1662,
+  "mb": 13.3
+ },
+ {
+  "kap": "ok05",
+  "okt": 2,
+  "tittel": "Kalkulasjon – prisen på ett sikringsskap",
+  "bok": "Økonomistyring",
+  "fil": "ok05_okt2.mp3",
+  "sek": 1521,
+  "mb": 12.2
+ },
+ {
+  "kap": "ok05",
+  "okt": 3,
+  "tittel": "Kalkulasjon – handelskalkylen og etterkalkylen",
+  "bok": "Økonomistyring",
+  "fil": "ok05_okt3.mp3",
+  "sek": 930,
+  "mb": 7.4
+ },
+ {
+  "kap": "ok06",
+  "okt": 1,
+  "tittel": "Kapitalbehov – hvor mye penger må på plass",
+  "bok": "Økonomistyring",
+  "fil": "ok06_okt1.mp3",
+  "sek": 850,
+  "mb": 6.8
+ },
+ {
+  "kap": "ok06",
+  "okt": 2,
+  "tittel": "Finansiering – hvem betaler, og hva koster lånet",
+  "bok": "Økonomistyring",
+  "fil": "ok06_okt2.mp3",
+  "sek": 957,
+  "mb": 7.7
+ },
+ {
+  "kap": "ok07",
+  "okt": 1,
+  "tittel": "Knapp faktor – hvem skal ha de siste 50 montørtimene",
+  "bok": "Økonomistyring",
+  "fil": "ok07_okt1.mp3",
+  "sek": 1032,
+  "mb": 8.3
+ },
+ {
+  "kap": "ok07",
+  "okt": 2,
+  "tittel": "Knapp faktor – fra rangering til plan",
+  "bok": "Økonomistyring",
+  "fil": "ok07_okt2.mp3",
+  "sek": 877,
+  "mb": 7.0
+ },
+ {
+  "kap": "ok08",
+  "okt": 1,
+  "tittel": "Nullpunkt – hvor mange timer går med før det blir overskudd",
+  "bok": "Økonomistyring",
+  "fil": "ok08_okt1.mp3",
+  "sek": 917,
+  "mb": 7.3
+ },
+ {
+  "kap": "ok08",
+  "okt": 2,
+  "tittel": "Nullpunkt – sikkerhetsmarginen og spakene",
+  "bok": "Økonomistyring",
+  "fil": "ok08_okt2.mp3",
+  "sek": 996,
+  "mb": 8.0
+ },
+ {
+  "kap": "ok09",
+  "okt": 1,
+  "tittel": "Budsjett – resultat og likviditet",
+  "bok": "Økonomistyring",
+  "fil": "ok09_okt1.mp3",
+  "sek": 1262,
+  "mb": 10.1
+ },
+ {
+  "kap": "ok09",
+  "okt": 2,
+  "tittel": "Likviditetsbudsjett",
+  "bok": "Økonomistyring",
+  "fil": "ok09_okt2.mp3",
+  "sek": 900,
+  "mb": 7.2
+ },
+ {
+  "kap": "ok09",
+  "okt": 3,
+  "tittel": "Budsjettkontroll",
+  "bok": "Økonomistyring",
+  "fil": "ok09_okt3.mp3",
+  "sek": 1433,
+  "mb": 11.5
+ },
+ {
   "kap": "ok10",
   "okt": 3,
   "tittel": "Investering – internrenten og beslutningen",
