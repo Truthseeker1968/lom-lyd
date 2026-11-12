@@ -302,8 +302,8 @@
   "tittel": "Etablering – skatt og merverdiavgift",
   "bok": "Økonomistyring",
   "fil": "ok01_okt3.mp3",
-  "sek": 1401,
-  "mb": 11.2
+  "sek": 1072,
+  "mb": 8.6
  },
  {
   "kap": "ok02",
@@ -356,8 +356,8 @@
   "tittel": "Balansen",
   "bok": "Økonomistyring",
   "fil": "ok03_okt3.mp3",
-  "sek": 1635,
-  "mb": 13.1
+  "sek": 695,
+  "mb": 5.6
  },
  {
   "kap": "ok04",
@@ -367,6 +367,24 @@
   "fil": "ok04_okt1.mp3",
   "sek": 1376,
   "mb": 11.0
+ },
+ {
+  "kap": "ok04",
+  "okt": 2,
+  "tittel": "Regnskapsanalyse – likviditet og effektivitet",
+  "bok": "Økonomistyring",
+  "fil": "ok04_okt2.mp3",
+  "sek": 943,
+  "mb": 7.5
+ },
+ {
+  "kap": "ok04",
+  "okt": 3,
+  "tittel": "Regnskapsanalyse – soliditet og finansiering",
+  "bok": "Økonomistyring",
+  "fil": "ok04_okt3.mp3",
+  "sek": 1408,
+  "mb": 11.3
  },
  {
   "kap": "ok05",
@@ -455,8 +473,8 @@
   "tittel": "Budsjett – resultat og likviditet",
   "bok": "Økonomistyring",
   "fil": "ok09_okt1.mp3",
-  "sek": 1262,
-  "mb": 10.1
+  "sek": 837,
+  "mb": 6.7
  },
  {
   "kap": "ok09",
@@ -464,8 +482,8 @@
   "tittel": "Likviditetsbudsjett",
   "bok": "Økonomistyring",
   "fil": "ok09_okt2.mp3",
-  "sek": 900,
-  "mb": 7.2
+  "sek": 1058,
+  "mb": 8.5
  },
  {
   "kap": "ok09",
@@ -473,8 +491,26 @@
   "tittel": "Budsjettkontroll",
   "bok": "Økonomistyring",
   "fil": "ok09_okt3.mp3",
-  "sek": 1433,
-  "mb": 11.5
+  "sek": 810,
+  "mb": 6.5
+ },
+ {
+  "kap": "ok10",
+  "okt": 1,
+  "tittel": "Investering – kontantstrømmen og tilbakebetalingstiden",
+  "bok": "Økonomistyring",
+  "fil": "ok10_okt1.mp3",
+  "sek": 953,
+  "mb": 7.6
+ },
+ {
+  "kap": "ok10",
+  "okt": 2,
+  "tittel": "Investering – pengenes tidsverdi og nåverdien",
+  "bok": "Økonomistyring",
+  "fil": "ok10_okt2.mp3",
+  "sek": 1502,
+  "mb": 12.0
  },
  {
   "kap": "ok10",
@@ -554,8 +590,8 @@
   "tittel": "Eksterne rammer – regler, penger og lønn",
   "bok": "Organisasjon og ledelse",
   "fil": "ol13_okt2.mp3",
-  "sek": 974,
-  "mb": 7.8
+  "sek": 843,
+  "mb": 6.7
  },
  {
   "kap": "ol13",
@@ -743,8 +779,8 @@
   "tittel": "Noen viktige lover – arbeidsavtalen og arbeidsmiljøet",
   "bok": "Organisasjon og ledelse",
   "fil": "ol20_okt1.mp3",
-  "sek": 958,
-  "mb": 7.7
+  "sek": 747,
+  "mb": 6.0
  },
  {
   "kap": "ol20",
